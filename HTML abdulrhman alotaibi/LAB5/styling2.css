@@ -1,0 +1,44 @@
+.background{
+    background-color: #f5e7cc;
+}
+header{
+    background-color: #282a7b;
+    color: white;
+}
+header > h1,h2{
+    padding: 5px;
+    margin: 5px;
+}
+section > h3{
+    background-color: #5b4199;
+    color: white;
+    padding: 5px;
+}
+aside{
+    float: right;
+    color: orange;
+    border-style: dashed;
+    width: 400px;
+    background-color: white;
+}
+aside h3{
+    padding: 10px;
+    margin: 0px;
+    width: 400px;
+}
+#asiding{
+    padding: 5px;
+    margin: 3px;
+    width: 400px;
+}
+.graph img{
+    margin-top: 20px;
+    width: 50%;
+}
+div footer{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 5px;
+}

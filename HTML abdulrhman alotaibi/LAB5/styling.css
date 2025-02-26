@@ -1,0 +1,19 @@
+section{
+    background-color: yellow;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+}
+div{
+    padding: 10px;
+    border-style: solid;
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.listStyling{
+    list-style-type: square;
+}
